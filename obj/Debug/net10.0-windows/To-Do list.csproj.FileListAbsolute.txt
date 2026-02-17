@@ -1,0 +1,16 @@
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To_Do_list.Form1.resources
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.csproj.GenerateResource.cache
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.AssemblyInfoInputs.cache
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.AssemblyInfo.cs
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\bin\Debug\net10.0-windows\To-Do list.exe
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\bin\Debug\net10.0-windows\To-Do list.deps.json
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\bin\Debug\net10.0-windows\To-Do list.runtimeconfig.json
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\bin\Debug\net10.0-windows\To-Do list.dll
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\bin\Debug\net10.0-windows\To-Do list.pdb
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.dll
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\refint\To-Do list.dll
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.pdb
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\To-Do list.genruntimeconfig.cache
+C:\Users\Angelo Kannangara\Desktop\C#\To-Do list\To-Do list\obj\Debug\net10.0-windows\ref\To-Do list.dll
